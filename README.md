@@ -10,10 +10,10 @@ Optional Feature:（如果今天没有听，将会推迟到下一天，如果今
 
 主要目的：拖延症福音
 
-![dailylist](/Users/richard/Dev/Dailylist/dailylist.png)
+![dailylist](./dailylist.png)
 
 
 
 其他用途（那年那天）：每天早晨在图片文件夹中随机抽选一张，早上打开电脑时，会提醒你回顾一张老照片
 
-![dailylist2](/Users/richard/Dev/Dailylist/dailylist2.png)
+![dailylist2](./dailylist2.png)
